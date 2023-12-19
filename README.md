@@ -2,9 +2,13 @@
 
 #Traffic Prediction Project
 #Overview
-This project focuses on predicting traffic intensity using a Recurrent Neural Network (RNN) based on historical data collected from traffic measurement points in Madrid since 2013. The data provides insights into the evolution of traffic over time and includes complementary datasets such as real-time traffic intensity, location of measurement points, and traffic maps.
+This project focuses on predicting traffic intensity using a Recurrent Neural Network (RNN) based on historical data collected from traffic measurement points in Madrid since in 2019. The data provides insights into the evolution of traffic over time and includes complementary datasets such as real-time traffic intensity, location of measurement points, and traffic maps. There is also a complementary dataset on regarding traffic Accident reports in Madrid.
 
 Dataset
+The datasets used for this project was taken from.[Madrid Traffic Data](https://datos.madrid.es/portal/site/egob/menuitem.9e1e2f6404558187cf35cf3584f1a5a0/?vgnextoid=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default) Below are the links to the specific datasets used:
+[2019 Traffic History Madrid](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=02f2c23866b93410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD)
+
+
 The dataset used for this project is named traffic_2019_model and includes the following columns:
 
 id: Numerical identifier for the measurement point.
