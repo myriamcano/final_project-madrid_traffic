@@ -73,9 +73,9 @@ TBD.
 
 ---
 
-### EDA for Traffic accidents in Madrid
+## EDA for Traffic accidents in Madrid
 
-## Dataset Translation and Severity Level Imputation
+### Dataset Translation and Severity Level Imputation
 
 For the accident dataset, an API connection to DeepL was utilized to translate the content, ensuring a standardized and comprehensible dataset. The translated dataset was then processed to handle missing values, specifically in the severity level column.
 
